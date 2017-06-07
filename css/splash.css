@@ -1,0 +1,10 @@
+body {
+    background-color: rebeccapurple;
+}
+
+div.splash {
+    height: 100vh;
+    background-image: url(../assetts/imgs/fondo-lyft.jpg);
+    background-size: cover;
+    background-position: center;
+}

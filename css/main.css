@@ -1,6 +1,21 @@
+body {
+    background-color: purple;
+}
+
 main {
     height: 100vh;
     background-image: url(../assetts/imgs/driving.gif);
     background-size: cover;
     background-position: center;
+    padding: 2vh;
+}
+
+button {
+    margin-top: 75vh;
+    width: 100%;
+}
+
+button#ingresar {
+    background-color: rgba(255, 255, 255, 0);
+    border: 1.5px solid #fff;
 }
