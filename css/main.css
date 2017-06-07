@@ -1,0 +1,6 @@
+main {
+    height: 100vh;
+    background-image: url(../assetts/imgs/driving.gif);
+    background-size: cover;
+    background-position: center;
+}
